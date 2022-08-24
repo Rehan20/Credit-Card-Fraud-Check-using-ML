@@ -1,5 +1,6 @@
 # Credit-Card-Fraud-Check-using-ML
-In this kernel, we are going to predict whether a credit card is fraud or not using Machine Learning.
+ On entering the credit  card number it will detect whether it is fraud or not.Applying the knowledge of Machine Learning and its algorithm , Python and its various libraries and mathematical calculations on a specific dataset to train our model, this model can identify whether the credit card is fraud or not.
+
 
 The datasets contains transactions made by credit cards in September 2013 by European cardholders. 
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. 
